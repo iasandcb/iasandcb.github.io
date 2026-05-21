@@ -1,0 +1,5 @@
+defaults:
+  - scope:
+      path: ""
+    values:
+      font_size: 24px
